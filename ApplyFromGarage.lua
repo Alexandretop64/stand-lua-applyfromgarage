@@ -170,5 +170,5 @@ menus.apply_from_garage:divider("Browse Garage")
 
 menus.about = menu.my_root():list("About", {}, "Information about this script")
 menus.about:readonly("Version", SCRIPT_VERSION)
-menus.about:hyperlink("Github Source", "https://github.com/hexarobi/stand-lua-applyfromgarage", "View source files on Github")
+menus.about:hyperlink("Github Source", "https://github.com/Alexandretop64/stand-lua-applyfromgarage", "View source files on Github")
 menus.about:hyperlink("Discord", "https://discord.gg/c3RuWNEDNt", "Open Discord Server")
