@@ -1,6 +1,6 @@
 -- Apply From Garage
 
-local SCRIPT_VERSION = "0.2.1"
+local SCRIPT_VERSION = "0.2.2"
 
 ---
 --- Auto Updater
