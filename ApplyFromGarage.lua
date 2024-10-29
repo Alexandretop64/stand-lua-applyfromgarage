@@ -7,7 +7,7 @@ local SCRIPT_VERSION = "0.2.1"
 ---
 
 local auto_update_config = {
-    source_url="https://raw.githubusercontent.com/hexarobi/stand-lua-applyfromgarage/main/ApplyFromGarage.lua",
+    source_url="https://raw.githubusercontent.com/Alexandretop64/stand-lua-applyfromgarage/refs/heads/main/ApplyFromGarage.lua",
     script_relpath=SCRIPT_RELPATH,
     project_url="https://github.com/Alexandretop64/stand-lua-applyfromgarage",
 }
